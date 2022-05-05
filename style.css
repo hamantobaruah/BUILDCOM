@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main{
+	width:  100%;
+	background: dimgrey;
+	background-position:  center;
+	background-size: cover;
+	height: 109vh;
+}
+
+.navbar{
+	width: 100%;
+	height: 75px;
+	margin: auto;
+
+}
